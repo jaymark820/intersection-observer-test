@@ -1,0 +1,2 @@
+# intersection-observer-test
+使用IntersectionObserver来进行懒加载图片示例
